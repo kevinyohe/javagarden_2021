@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T03:32:44.024100100Z</date>
+  <millis>1634959964024</millis>
+  <nanos>100100</nanos>
+  <sequence>0</sequence>
+  <logger>com.wombat.nose</logger>
+  <level>INFO</level>
+  <class>Nose</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>doing stuff</message>
+</record>
+<record>
+  <date>2021-10-23T03:32:44.068012700Z</date>
+  <millis>1634959964068</millis>
+  <nanos>12700</nanos>
+  <sequence>1</sequence>
+  <logger>com.wombat.nose</logger>
+  <level>WARNING</level>
+  <class>Nose</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>trouble sneezing</message>
+</record>
+<record>
+  <date>2021-10-23T03:32:44.069009Z</date>
+  <millis>1634959964069</millis>
+  <nanos>9000</nanos>
+  <sequence>2</sequence>
+  <logger>com.wombat.nose</logger>
+  <level>FINE</level>
+  <class>Nose</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>done</message>
+</record>
+</log>
